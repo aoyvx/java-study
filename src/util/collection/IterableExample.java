@@ -1,8 +1,6 @@
 package util.collection;
 
 import java.util.Iterator;
-import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
 /**
  * @author v_vyqyxiong
